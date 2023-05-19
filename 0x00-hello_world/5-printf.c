@@ -1,11 +1,11 @@
 #include <stdio>
 /*
- * main - a program that prints a line with printf
+ * main - A program that prints a line with printf command
  * Return: 0 (Success)
  */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,\n")
+printf("with proper grammar, but the outcome is a piece of art,")
 return (0);
 }
 
